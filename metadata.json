@@ -1,0 +1,7 @@
+{
+  "name": "RT/RW Digital Dashboard",
+  "description": "A comprehensive community management dashboard for Indonesian neighborhood units (RT/RW), featuring resident data management, financial tracking, service requests, and an AI-powered community assistant.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
